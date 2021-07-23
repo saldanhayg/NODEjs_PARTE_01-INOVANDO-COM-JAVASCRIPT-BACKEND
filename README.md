@@ -1,8 +1,7 @@
 # NODE.JS PARTE 1: INOVANDO COM JAVASCRIPT NO BACKEND
 
 <h1>
-   <img src="https://scontent.fsjk2-1.fna.fbcdn.net/v/t1.0-9/120923193_3666298863401689_413193240981148387_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=YIFNg-8exWsAX8u_R6O&_nc_ht=scontent.fsjk2-1.fna&oh=a164bdacb921d080dc63cacb6db235a5&oe=6070FFE6" border="0">
-</h1>
+<img src="https://i.ibb.co/sFK4xgv/NODE-JS-PARTE-1.png" alt="NODE-JS-PARTE-1" border="0"></h1>
 
 Este curso faz parte da Formação Front End do programa Acelera Devs
 
